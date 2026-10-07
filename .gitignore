@@ -1,0 +1,16 @@
+# Maxfiy kalitlar va muhit o'zgaruvchilari
+.env
+
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit (agar bo'lsa)
+venv/
+env/
+.venv/
+
+# SQLite ma'lumotlar bazasi fayllari (agar database papkasida bo'lsa)
+*.db
+*.sqlite3
